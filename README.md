@@ -1,5 +1,11 @@
 # 641-final-project
 This is for 641 final project - clickbait detection.
+## Google colab should be used to run this project.
+Or you may use local GPU.
+
+> https://colab.research.google.com/drive/1pZZ87NQDgbSe0EUh5qA2aAklnJfBIdSQ?usp=sharing 
+
+This is our google colab notebook.
 
 ## Task Descriptions
 
